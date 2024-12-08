@@ -15,3 +15,6 @@ This is NOT affiliated with Freedom Mobile, nor its partners/subsidiaries. Use a
 - I no longer have a Freedom Mobile line, so the project will be a big WIP.
 - You're limited to a small number of reqs. before you have to wait 24 hours (rate limiting on the phone #, not just IP)
 
+## License
+
+This project is licensed under MIT No Attribution (MIT-0) License - [see the LICENSE](LICENSE) file for details. You are free to redistribute, modify, etc. without any attribution.
