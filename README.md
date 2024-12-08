@@ -1,4 +1,4 @@
-# freedom-mobile-api-client
+# python-freedom-mobile-api-client
 
 ## Introduction
 
