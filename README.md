@@ -4,7 +4,7 @@
 
 Short pre-amble: I was trying to write an API library so that I could write a quick iOS/Android app (god forbid anyone uses the official app -- it's a joke), but never got beyond ~2/3rds of the authentication process. The current roadblock has to do with CSRF protection:
 
-https://github.com/doghouch/freedom-mobile-api-client/blob/3d8cf502a715312cd5225ad8e13e68e45656f8af/models/AuthModel.py#L221
+https://github.com/doghouch/python-freedom-mobile-api-client/blob/3d8cf502a715312cd5225ad8e13e68e45656f8af/models/AuthModel.py#L221
 
 ## Disclaimer
 
